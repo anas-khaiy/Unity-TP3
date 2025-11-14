@@ -40,8 +40,13 @@ Le but de cette application est d’offrir une expérience interactive, éducati
 <img width="400" height="370" alt="image" src="https://github.com/user-attachments/assets/4a86302b-a548-4b86-9dd7-aec13f23a14c" />
 
 
+## 4. Configuration de Vuforia dans Unity
+- Installer le Vuforia Engine dans Unity.
+- Activer Vuforia dans le Player Settings.
+- Ajouter un ARCamera dans la scène.
+- Importer la database Vuforia et l’activer dans le projet.
 
-
+<img width="1000" height="540" alt="image" src="https://github.com/user-attachments/assets/ca44eb79-d207-490d-b29e-0bfd84bca00b" />
 
 
 
