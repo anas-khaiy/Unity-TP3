@@ -57,7 +57,12 @@ Database: ta base de données Vuforia +
 Image Target: l’image correspondante Ajuster l’échelle et la position.
 - Les 4 Image Targets :   Heart Image Target + Stomach Image Target + Eye Image Target + Brain Image Target
 
+## 6. Ajout des modèles 3D
 
+- Pour chaque Image Target :
+Importer le modèle 3D correspondant + Placer le modèle comme enfant (child) de l’Image Target.
+- Ajuster :
+l’échelle, + la rotation, + la position.
 
 
 
