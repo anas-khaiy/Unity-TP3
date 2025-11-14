@@ -55,11 +55,7 @@ Ajouter un Image Target dans la scène Unity.
 - Dans les paramètres Inspector, sélectionner : 
 Database: ta base de données Vuforia + 
 Image Target: l’image correspondante Ajuster l’échelle et la position.
-- Les 4 Image Targets : 
-+ Heart Image Target
-+ Stomach Image Target
-+ Eye Image Target
-+ Brain Image Target
+- Les 4 Image Targets :   Heart Image Target + Stomach Image Target + Eye Image Target + Brain Image Target
 
 
 
