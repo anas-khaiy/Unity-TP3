@@ -65,5 +65,39 @@ Importer le modèle 3D correspondant + Placer le modèle comme enfant (child) de
 l’échelle, + la rotation, + la position.
 
 
+## 7. Tests et ajustements
+
+- Tester l’application sur PC avec la webcam et sur smartphone.
+- Vérifier :
+- la vitesse de détection,
+- la stabilité du modèle 3D,
+- la fluidité de la rotation.
+
+
+## 8. Build final
+- Choisir la plateforme (Android et iOS).
+- Configurer les options :
+- permission de la caméra,
+- Target Device
+- Générer l’APK (Android) et le build Xcode (iOS).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
