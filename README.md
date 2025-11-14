@@ -56,7 +56,6 @@ Le but de cette application est d’offrir une expérience interactive, éducati
 - Database: ta base de données Vuforia
 - Image Target: l’image correspondante
 - Ajuster l’échelle et la position.
-
 - Les 4 Image Targets :
 - Heart Image Target
 - Stomach Image Target
