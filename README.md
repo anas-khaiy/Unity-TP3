@@ -49,6 +49,20 @@ Le but de cette application est d’offrir une expérience interactive, éducati
 <img width="1000" height="540" alt="image" src="https://github.com/user-attachments/assets/ca44eb79-d207-490d-b29e-0bfd84bca00b" />
 
 
+##  5. Création des Image Targets
+- Pour chaque organe :
+- Ajouter un Image Target dans la scène Unity.
+- Dans les paramètres Inspector, sélectionner :
+- Database: ta base de données Vuforia
+- Image Target: l’image correspondante
+- Ajuster l’échelle et la position.
+
+- Les 4 Image Targets :
+- Heart Image Target
+- Stomach Image Target
+- Eye Image Target
+- Brain Image Target
+
 
 
 
