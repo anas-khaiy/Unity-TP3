@@ -29,9 +29,15 @@ Le but de cette application est d’offrir une expérience interactive, éducati
 <img width="200" height="230"  alt="image" src="https://github.com/user-attachments/assets/418e58c0-aedb-40cb-8fd2-2629c4c76558" />
 <img width="200" height="230"  alt="image" src="https://github.com/user-attachments/assets/2a678044-748b-4078-ae83-0faa77c9ee09" />
 
+## 3. Création d’une base de données Vuforia
+- Accéder au site de Vuforia Target Manager.
+- Créer une nouvelle database.
+- Importer les 4 images qui serviront de marqueurs (heart target, stomach target, eye target, brain target).
+- Vérifier la qualité de chaque image.
+- Générer puis télécharger la Image Target Database au format Unity Package.
+- Importer cette base de données dans Unity.
 
-
-
+<img width="400" height="370" alt="image" src="https://github.com/user-attachments/assets/4a86302b-a548-4b86-9dd7-aec13f23a14c" />
 
 
 
