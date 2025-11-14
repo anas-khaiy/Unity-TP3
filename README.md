@@ -11,9 +11,10 @@ Le but de cette application est d’offrir une expérience interactive, éducati
 - Déterminer le type d’application : application éducative en réalité augmentée.
 - Choisir les organes à afficher : heart, stomach, eye, brain.
 - Définir l’interaction : affichage automatique du modèle 3D lors de la détection d’une image cible.
-<img width="1000" height="1500" alt="heartImg" src="https://github.com/user-attachments/assets/2f5c195f-5e31-41e4-81a5-ffe24cf43a78" />
-<img width="1000" height="1500" alt="eyeImg" src="https://github.com/user-attachments/assets/b4893f79-b3e6-4078-b386-e47e7845ae73" />
-<img width="1000" height="1500" alt="brainImg" src="https://github.com/user-attachments/assets/b81f3b1d-3ae7-4e86-9d94-ce2b8e0c7e04" />
+<img width="100" height="150" alt="heartImg" src="https://github.com/user-attachments/assets/2f5c195f-5e31-41e4-81a5-ffe24cf43a78" />
+<img width="100" height="150" alt="eyeImg" src="https://github.com/user-attachments/assets/b4893f79-b3e6-4078-b386-e47e7845ae73" />
+<img width="100" height="150" alt="brainImg" src="https://github.com/user-attachments/assets/b81f3b1d-3ae7-4e86-9d94-ce2b8e0c7e04" />
+<img width="100" height="150" alt="stomachImg" src="https://github.com/user-attachments/assets/148e3cc5-8fc6-4433-b9ef-4c0c684fc793" />
 
 ## 2. Préparation des ressources
 - créer les images qui serviront comme Image Targets.
